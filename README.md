@@ -81,6 +81,6 @@
 <iframe src="https://uploads.knightlab.com/storymapjs/65c875b7bed59e88ebbdae12555fefc0/1/index.html" frameborder="0" width="100%" height="800"></iframe>
 <br>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSfNoshbgp3fjAzv_wksyawABu-14-QFk7w4Ww4_yBl-xCvbGeYdOYgiawDbsNf_elpfXLzNpkbJRg0&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
+<iframe title="Greenhouse Gas Emissions in Scotland (From 1990)" aria-label="Line chart" id="datawrapper-chart-ViRPD" src="https://datawrapper.dwcdn.net/ViRPD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="462" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 </body>
 </html>
